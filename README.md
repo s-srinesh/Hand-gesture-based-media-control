@@ -45,7 +45,8 @@ pip install opencv-python mediapipe keyboard
 2. Run the script using the command:
 
    ```bash
-   python hand_gesture_media_controller.py
+   app.py
+   ppt.py
    ```
 
 3. Ensure your webcam is connected.
